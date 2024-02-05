@@ -1,11 +1,11 @@
 require(['gitbook', 'jquery'], function(gitbook, $) {
     var SITES = {
-        'facebook': {
-            'label': 'Facebook',
-            'icon': 'fa fa-facebook',
+        'linkedin': {
+            'label': 'LinkedIn',
+            'icon': 'fa fa-linkedin',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('http://www.facebook.com/sharer/sharer.php?s=100&p[url]='+encodeURIComponent(location.href));
+                window.open("http://linkedin.com/in/wtjarratt");
             }
         },
         'twitter': {
@@ -80,16 +80,16 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 onClick: site.onClick
             };
         });
-
+		
         // Create main button with dropdown
-        if (menu.length > 0) {
+        /*if (menu.length > 0) {
             gitbook.toolbar.createButton({
                 icon: 'fa fa-share-alt',
                 label: 'Share',
                 position: 'right',
                 dropdown: [menu]
             });
-        }
+        }*/
 
         // Direct actions to share
         $.each(SITES, function(sideId, site) {
