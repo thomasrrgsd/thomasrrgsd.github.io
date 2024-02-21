@@ -8,7 +8,7 @@ layout: post
 
 ## Hobbies
 ### Reading
-This year my goal is to read one book per month. I am thinking of alternating between fiction and non-fiction. For the non-fiction slots I am shooting for books related to Physics such as the developement of different fields in Physics or biographies of different influential physisicts. For fiction, probably crime more so than other categories.
+This year my goal is to read one book per month. I am thinking of alternating between fiction and non-fiction. For the non-fiction slots I am shooting for books related to the developement of the different fields in Physics or biographies of influential physisicts. For fiction, probably crime more so than other categories.
 
 - January
 
@@ -20,7 +20,7 @@ This year my goal is to read one book per month. I am thinking of alternating be
 
   - *And Then There Were None*
   - Agatha Christie
-  - I have read a few other of Agatha Christie's novels. I thoroughly enjoyed this one along with the others. I was stumped until reading the epilogue at the end. I had made a few guesses but had to back track as the characters died off.
+  - I have read a few other of Agatha Christie's novels. I thoroughly enjoyed this one along with the others. I was stumped until reading the epilogue at the end. I had made a few guesses but had to back track as each of my guesses met their end.
 
 - March (Tentative)
 
