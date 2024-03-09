@@ -27,6 +27,6 @@ This year my goal is to read one book per month. I am thinking of alternating be
   - *The First Three Minutes: A Modern View of the Origin of the Universe*
   - Steven Weinberg
 
-- April (Tentative)
+- April
 
   - Dune Series
