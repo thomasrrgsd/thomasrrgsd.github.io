@@ -34,3 +34,7 @@ This year my goal is to read one book per month. I am thinking of alternating be
 - May
 
   - Dune Series
+
+- June
+
+  - Dune Series
