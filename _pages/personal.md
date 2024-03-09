@@ -22,7 +22,7 @@ This year my goal is to read one book per month. I am thinking of alternating be
   - Agatha Christie
   - I have read a few other of Agatha Christie's novels. I thoroughly enjoyed this one along with the others. I was stumped until reading the epilogue at the end. I had made a few guesses but had to back track as each of my guesses met their end.
 
-- March (Tentative)
+- March
 
   - *The First Three Minutes: A Modern View of the Origin of the Universe*
   - Steven Weinberg
