@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+      .archive ul, .archive p {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .archive li {
+        margin-bottom: 1px;
+    }
+</style>
+
+<ul>
+  <li><a href="#diff-ota">Fully Differential OTA</a></li>
+  <li><a href="#lna">CMOS Low Noise Amplifier</a></li>
+  <li><a href="#vco">CMOS Voltage Controlled Oscillator</a></li>
+</ul>
+
+More projects to be added!
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
